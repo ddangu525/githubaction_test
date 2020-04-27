@@ -1,1 +1,2 @@
-print('Hello github action!')
+def action():
+    return 'Hello github action!'
